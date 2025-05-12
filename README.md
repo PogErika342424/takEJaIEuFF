@@ -2,7 +2,7 @@
 
 ## 💩 **RBLX Ass Decompile Script**
 
-> ⚠️ *use at ur own risk lol*
+⚠️ *use at ur own risk lol*
 
 ### ❗ What is this?
 
